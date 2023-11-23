@@ -2,9 +2,6 @@
   "name": "ur_notes_app_backend",
   "version": "1.0.0",
   "description": "Backend for Ur Notes App",
-  "engines": {
-    "node": ">=16<19"
-  },
   "main": "index.js",
   "scripts": {
     "start": "node start",
