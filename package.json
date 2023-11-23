@@ -4,7 +4,7 @@
   "description": "Backend for Ur Notes App",
   "main": "index.js",
   "scripts": {
-    "start": "node start",
+    "start": "node index.js",
     "dev": "nodemon index.js"
   },
   "author": "Josué Reyna",
